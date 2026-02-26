@@ -1,10 +1,10 @@
-Id = "j5hjj@9"-
-SECURE PASSWORD GENERATOR -
+Id = "j5h7!j3j@9"
+## SECURE PASSWORD GENERATOR 
  A Python application that generates strong and randomized passwords.
- FEATURES;
+ ## FEATURES
  Custom password length.
  Random combination of letters, numbers and symbols.
  Enhances basic password security.
- BUILT WITH;
+ ## BUILT WITH
  Python.
  Random module.
